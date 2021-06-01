@@ -1,5 +1,5 @@
 ---
-title: About
+title: Over mij
 layout: advanced
 page_css_class: gray-background
 sections:
