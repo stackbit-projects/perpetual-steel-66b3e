@@ -1,6 +1,6 @@
 ---
 title: Producten
-layout: store
+layout: producten
 sections:
   - type: store_section
     section_id: store_section
