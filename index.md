@@ -19,7 +19,7 @@ sections:
         style: primary
   - type: featured_products_section
     section_id: best_sellers_section
-    title: Best sellers
+    title: Best verkocht
     icon: true
     light_title: true
     featured_products:
