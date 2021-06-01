@@ -12,12 +12,12 @@
     "palette": "green",
     "main_menu": [
         {
-            "title": "Store",
-            "url": "/store",
+            "title": "Producten",
+            "url": "/producten",
             "style": "link"
         },
         {
-            "title": "About",
+            "title": "Over mij",
             "url": "/about",
             "style": "link"
         },
