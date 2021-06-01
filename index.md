@@ -13,7 +13,7 @@ sections:
       Don't forget to add your Snipcart API key to the site's configuration to
       enable Cart actions.
     actions:
-      - title: See all items
+      - title: Bekijk het aanbod
         url: /producten
         arrow: true
         style: primary
