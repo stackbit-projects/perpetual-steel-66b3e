@@ -14,7 +14,7 @@ sections:
       enable Cart actions.
     actions:
       - title: See all items
-        url: /store
+        url: /producten
         arrow: true
         style: primary
   - type: featured_products_section
